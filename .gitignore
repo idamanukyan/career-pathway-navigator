@@ -1,0 +1,16 @@
+# Node
+frontend/node_modules/
+
+# Python
+ml-service/env/
+__pycache__/
+
+# Java
+backend/target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# macOS
+.DS_Store
